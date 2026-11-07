@@ -1,0 +1,331 @@
+{
+  "num_product_classes": 65,
+  "background_label": 0,
+  "categories": [
+    {
+      "model_label": 1,
+      "category_id": 1,
+      "name": "boost_std"
+    },
+    {
+      "model_label": 2,
+      "category_id": 2,
+      "name": "clear_ahf"
+    },
+    {
+      "model_label": 3,
+      "category_id": 3,
+      "name": "clear_cac"
+    },
+    {
+      "model_label": 4,
+      "category_id": 4,
+      "name": "clear_csm_large"
+    },
+    {
+      "model_label": 5,
+      "category_id": 5,
+      "name": "clear_csm_small"
+    },
+    {
+      "model_label": 6,
+      "category_id": 6,
+      "name": "closeup_lemon_salt"
+    },
+    {
+      "model_label": 7,
+      "category_id": 7,
+      "name": "dove_cond"
+    },
+    {
+      "model_label": 8,
+      "category_id": 8,
+      "name": "dove_hfr_large"
+    },
+    {
+      "model_label": 9,
+      "category_id": 9,
+      "name": "dove_hfr_small"
+    },
+    {
+      "model_label": 10,
+      "category_id": 10,
+      "name": "dove_irp_large"
+    },
+    {
+      "model_label": 11,
+      "category_id": 11,
+      "name": "dove_irp_small"
+    },
+    {
+      "model_label": 12,
+      "category_id": 12,
+      "name": "dove_mask_25"
+    },
+    {
+      "model_label": 13,
+      "category_id": 13,
+      "name": "dove_no"
+    },
+    {
+      "model_label": 14,
+      "category_id": 14,
+      "name": "dove_nr_lotion"
+    },
+    {
+      "model_label": 15,
+      "category_id": 15,
+      "name": "dove_oxg"
+    },
+    {
+      "model_label": 16,
+      "category_id": 16,
+      "name": "gl_aryuvedic_crm"
+    },
+    {
+      "model_label": 17,
+      "category_id": 17,
+      "name": "gl_foundation_crm"
+    },
+    {
+      "model_label": 18,
+      "category_id": 18,
+      "name": "gl_insta_glow_fw"
+    },
+    {
+      "model_label": 19,
+      "category_id": 19,
+      "name": "gl_mltvit_crm"
+    },
+    {
+      "model_label": 20,
+      "category_id": 20,
+      "name": "gl_sunscrn_crm"
+    },
+    {
+      "model_label": 21,
+      "category_id": 21,
+      "name": "horlicks_choco"
+    },
+    {
+      "model_label": 22,
+      "category_id": 22,
+      "name": "horlicks_junior"
+    },
+    {
+      "model_label": 23,
+      "category_id": 23,
+      "name": "horlicks_junior_s1"
+    },
+    {
+      "model_label": 24,
+      "category_id": 24,
+      "name": "horlicks_lite"
+    },
+    {
+      "model_label": 25,
+      "category_id": 25,
+      "name": "horlicks_mother"
+    },
+    {
+      "model_label": 26,
+      "category_id": 26,
+      "name": "horlicks_std"
+    },
+    {
+      "model_label": 27,
+      "category_id": 27,
+      "name": "horlicks_women"
+    },
+    {
+      "model_label": 28,
+      "category_id": 28,
+      "name": "lifebuoy_pouch"
+    },
+    {
+      "model_label": 29,
+      "category_id": 29,
+      "name": "lifebuoy_pump"
+    },
+    {
+      "model_label": 30,
+      "category_id": 30,
+      "name": "lux_blk_orchd"
+    },
+    {
+      "model_label": 31,
+      "category_id": 31,
+      "name": "lux_brightening_vitamin"
+    },
+    {
+      "model_label": 32,
+      "category_id": 32,
+      "name": "lux_freeasia_scnt"
+    },
+    {
+      "model_label": 33,
+      "category_id": 33,
+      "name": "lux_french_rose"
+    },
+    {
+      "model_label": 34,
+      "category_id": 34,
+      "name": "maltova_std"
+    },
+    {
+      "model_label": 35,
+      "category_id": 35,
+      "name": "pepsodent_advanced_salt"
+    },
+    {
+      "model_label": 36,
+      "category_id": 36,
+      "name": "pepsodent_germicheck"
+    },
+    {
+      "model_label": 37,
+      "category_id": 37,
+      "name": "pepsodent_sensitive_expert"
+    },
+    {
+      "model_label": 38,
+      "category_id": 38,
+      "name": "ponds_bright_beauty_crm"
+    },
+    {
+      "model_label": 39,
+      "category_id": 39,
+      "name": "ponds_bright_beauty_fw"
+    },
+    {
+      "model_label": 40,
+      "category_id": 40,
+      "name": "ponds_oil_control_fw"
+    },
+    {
+      "model_label": 41,
+      "category_id": 41,
+      "name": "ponds_pure_white_fw"
+    },
+    {
+      "model_label": 42,
+      "category_id": 42,
+      "name": "sunsilk_black_large"
+    },
+    {
+      "model_label": 43,
+      "category_id": 43,
+      "name": "sunsilk_black_small"
+    },
+    {
+      "model_label": 44,
+      "category_id": 44,
+      "name": "sunsilk_hfs"
+    },
+    {
+      "model_label": 45,
+      "category_id": 45,
+      "name": "sunsilk_hfs_rinse"
+    },
+    {
+      "model_label": 46,
+      "category_id": 46,
+      "name": "sunsilk_hrr"
+    },
+    {
+      "model_label": 47,
+      "category_id": 47,
+      "name": "sunsilk_onion"
+    },
+    {
+      "model_label": 48,
+      "category_id": 48,
+      "name": "sunsilk_serum_25"
+    },
+    {
+      "model_label": 49,
+      "category_id": 49,
+      "name": "sunsilk_tl_large"
+    },
+    {
+      "model_label": 50,
+      "category_id": 50,
+      "name": "sunsilk_tl_small"
+    },
+    {
+      "model_label": 51,
+      "category_id": 51,
+      "name": "sunsilk_volume"
+    },
+    {
+      "model_label": 52,
+      "category_id": 52,
+      "name": "surf_excel_matic_1l"
+    },
+    {
+      "model_label": 53,
+      "category_id": 53,
+      "name": "surf_excel_matic_500ml"
+    },
+    {
+      "model_label": 54,
+      "category_id": 54,
+      "name": "treseme_sampoo_bond_plex"
+    },
+    {
+      "model_label": 55,
+      "category_id": 55,
+      "name": "tresemme_ks_large"
+    },
+    {
+      "model_label": 56,
+      "category_id": 56,
+      "name": "tresemme_ks_small"
+    },
+    {
+      "model_label": 57,
+      "category_id": 57,
+      "name": "tresemme_ks_white"
+    },
+    {
+      "model_label": 58,
+      "category_id": 58,
+      "name": "tresemme_mask_25"
+    },
+    {
+      "model_label": 59,
+      "category_id": 59,
+      "name": "tresemme_serum_25"
+    },
+    {
+      "model_label": 60,
+      "category_id": 60,
+      "name": "vaseline_aloe"
+    },
+    {
+      "model_label": 61,
+      "category_id": 61,
+      "name": "vaseline_gluta_flawless"
+    },
+    {
+      "model_label": 62,
+      "category_id": 62,
+      "name": "vaseline_gluta_rad"
+    },
+    {
+      "model_label": 63,
+      "category_id": 63,
+      "name": "vaseline_hw"
+    },
+    {
+      "model_label": 64,
+      "category_id": 64,
+      "name": "vaseline_tm"
+    },
+    {
+      "model_label": 65,
+      "category_id": 65,
+      "name": "vim_liquid_500ml"
+    }
+  ]
+}

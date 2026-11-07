@@ -1,0 +1,22 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# IDE files
+.vscode/
+
+# Model checkpoints (store separately)
+*.pth
+*.pt
+*.ckpt
+
+# Temporary files
+.DS_Store
+Thumbs.db
